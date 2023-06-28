@@ -2,7 +2,6 @@
 /home/fil/Filip/programming/laser/bin/Debug/net6.0/laser.deps.json
 /home/fil/Filip/programming/laser/bin/Debug/net6.0/laser.runtimeconfig.json
 /home/fil/Filip/programming/laser/bin/Debug/net6.0/laser.dll
-/home/fil/Filip/programming/laser/bin/Debug/net6.0/ref/laser.dll
 /home/fil/Filip/programming/laser/bin/Debug/net6.0/laser.pdb
 /home/fil/Filip/programming/laser/bin/Debug/net6.0/MonoGame.Framework.dll
 /home/fil/Filip/programming/laser/bin/Debug/net6.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
@@ -24,3 +23,4 @@
 /home/fil/Filip/programming/laser/obj/Debug/net6.0/ref/laser.dll
 /home/fil/Filip/programming/laser/obj/Debug/net6.0/laser.pdb
 /home/fil/Filip/programming/laser/obj/Debug/net6.0/laser.genruntimeconfig.cache
+/home/fil/filip/programming/laser/obj/Debug/net6.0/refint/laser.dll
